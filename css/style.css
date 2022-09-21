@@ -23,6 +23,7 @@
 html{
     font-size: 62.5%;
     overflow-x: hidden;
+    scroll-behavior: smooth;
 }
 
 html::-webkit-scrollbar{
@@ -44,7 +45,7 @@ body{
 }
 
 section{
-    min-height: 100vh;
+    min-height: 80vh;
     padding:1rem;
 }
 
@@ -376,7 +377,9 @@ header .navbar ul li a:hover{
     display: none;
 }
 
-
+#portfolio p{
+    color: var(--yellow);
+}
 
 
 
