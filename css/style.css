@@ -467,3 +467,14 @@ header .navbar ul li a:hover{
     }
 
  }
+
+ #particles-js{
+    position: absolute;
+    top: 40px;
+    z-index: -1;
+ }
+ .particles{
+    width: 100vw;
+    height: 100vh;
+    
+ }
