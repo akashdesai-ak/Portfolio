@@ -478,3 +478,11 @@ header .navbar ul li a:hover{
     height: 100vh;
     
  }
+
+ #loader{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background: #111111 url("../images/loader.svg") no-repeat center;
+    z-index: 99999;
+ }

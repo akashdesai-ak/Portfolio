@@ -15,7 +15,9 @@
    
 
 </head>
-<body >
+<body onload="loading()">
+
+    <div id="loader"></div>
     
 <!-- header section starts  -->
 
@@ -259,6 +261,14 @@
 <script src="./js/particles.js"></script>
 <script src="./js/app.js"></script>
 
+<script>
+    let preloader = document.getElementById("loader");
+
+   function loading(){
+        preloader.style.display="none";
+    }
+    
+</script>
 
 </body>
 </html>
