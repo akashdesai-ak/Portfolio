@@ -470,13 +470,13 @@ header .navbar ul li a:hover{
 
  #particles-js{
     position: absolute;
-    top: 40px;
+    top: 0%;
     /* z-index: -1; */
 
  }
  .particles{
     width: 100vw;
-    /* height: 100vh; */
+    height: 100vh;
     
  }
 /* loader */
