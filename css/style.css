@@ -487,7 +487,7 @@ header .navbar ul li a:hover{
     left: 0%;
     width: 100vw;
     height: 100vh;
-    background: #111111 url("../images/loader.svg") no-repeat center;
+    background: #111111 url("../images/Dual-Ball.svg") no-repeat center;
     z-index: 1000;
  }
 
