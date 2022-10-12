@@ -222,7 +222,7 @@
 
     </div>
 
-    <form action=""  >
+    <form action="email.php" method="POST"  >
 
         <input type="text" id="name" placeholder="name" name="name" class="box">
         <input type="email" id="email" placeholder="email" name="email" class="box">
